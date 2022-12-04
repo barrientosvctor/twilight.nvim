@@ -39,8 +39,8 @@ return {
         c = { bg = colors.dark_grey, fg = colors.yellow },
     },
     inactive = {
-        a = { bg = colors.beige, fg = colors.dark_grey, gui = "bold" },
-        b = { bg = colors.mid_grey, fg = colors.mid_white },
+        a = { bg = colors.black, fg = colors.mid_white, gui = "bold" },
+        b = { bg = colors.black, fg = colors.mid_white },
         c = { bg = colors.black, fg = colors.dark_yellow },
     },
 }
