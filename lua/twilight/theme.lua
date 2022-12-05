@@ -96,7 +96,7 @@ end
 
 function theme.loadTreesitter()
     return {
-        TSConstructor = { fg = colors.light_green },
+        TSConstructor = { fg = colors.white },
         TSConstant = { link = "Constant" },
         TSVariable = { fg = colors.white },
         TSVariableBuiltin = { fg = colors.yellow },
