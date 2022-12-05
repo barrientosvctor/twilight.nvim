@@ -1,5 +1,7 @@
 # twilight.nvim
-A port of [vim-twilight](https://github.com/scottymoon/vim-twilight) for Neovim, theme inspired from Textmate's twilight theme.
+A port of [vim-twilight](https://github.com/scottymoon/vim-twilight) for Neovim, theme inspired from Textmate's Twilight theme.
+
+![Twilight-preview](/screenshots/previewTwilight.png)
 
 ## ⚡️ Requeriments
 * Neovim >= 0.5.0
@@ -10,7 +12,7 @@ A port of [vim-twilight](https://github.com/scottymoon/vim-twilight) for Neovim,
 use 'barrientosvctor/twilight.nvim'
 ```
 
-## Plugins supported
+## 🔌 Plugins supported
 * [TreeSitter](https://github.com/nvim-treesitter/nvim-treesitter)
 * [LSP Diagnostics](https://neovim.io/doc/user/lsp.html)
 * [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
@@ -32,5 +34,3 @@ if not status then return end
 
 twilight.set()
 ```
-
-## 📸 Screenshots
